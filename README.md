@@ -1,6 +1,10 @@
-# Hi  👋, I'm Atul Kumar Sharma
+<h1 align="center">Hi 👋, I'm Atul Kumar Sharma</h1>
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/640/1*TmiX7ATMCzxwdbmwEe6RXA.gif"
 
-### QA Lead- Automation
+<p align="left">
+
+
+   
 
 -   🔭  I’m currently working on  [Automation Framework with Selenium and Rest-Assured](https://github.com/AtulKrSharma)
     
