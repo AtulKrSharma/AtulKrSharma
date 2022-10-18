@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi  👋, I'm Atul Kumar Sharma
 
-<!--
-**AtulKrSharma/AtulKrSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### QA Lead- Automation
 
-Here are some ideas to get you started:
+-   🔭  I’m currently working on  [Automation Framework with Selenium and Rest-Assured](https://github.com/AtulKrSharma)
+    
+-   🌱  I’m currently learning  **API automation framework design using Cypress.io**
+    
+-   👯  I’m looking to collaborate on  **Automation framework design and development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   ✨ I'm helping myself & community on **StackOverflow** and this is my [StackOverflow profile](https://stackoverflow.com/users/10837620/atul-kumar-sharma)
+    
+-   🤝  I’m looking for help with  **Microsoft Azure/ AWS**
+    
+-   👨‍💻  All of my projects are available at  [https://github.com/AtulKrSharma](https://github.com/AtulKrSharma)
+    
+-   💬  Ask me about  **Selenium, Rest-assured, Cypress, Cucumber, DevOps (Jenkins etc)**
+    
+-   📫  How to reach me  **[https://www.linkedin.com/in/atulkmrsharma](https://www.linkedin.com/in/atulkmrsharma/)**
