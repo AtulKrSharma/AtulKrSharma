@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atul Kumar Sharma</h1>
 <img align="right" width="300" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif"
-<p align="left">
+<p align="left">   
 
-
-   
-
--   🔭  I’m currently working on  [Automation Framework with Selenium and Rest-Assured](https://github.com/AtulKrSharma)
+-   🔭  I’m currently working on [Automation Framework with Cypress & API Testing with JavaScript](https://github.com/AtulKrSharma)
     
 -   🌱  I’m currently learning  **API automation framework design using Cypress.io**
     
