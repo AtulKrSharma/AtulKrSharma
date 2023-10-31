@@ -4,7 +4,7 @@
 
 -   🔭  I’m currently working on both, [Automation Framework with Cypress GUI Testing (pageObjects+ appActions) with JavaScript](https://github.com/AtulKrSharma/CypressGUITestingFramework) and worked on [Automation Framework with Cypress API Testing with JavaScript](https://github.com/AtulKrSharma/CypressAPITestingFramework)
     
--   🌱  I’m currently learning  **API Automation Framework design using Cypress.io, Docker and Kubernetes**
+-   🌱  I’m currently learning  **API Automation Framework design using Playwright, Docker and Kubernetes**
     
 -   👯  I’m looking to collaborate on  **Automation framework design and development**
 
@@ -14,7 +14,7 @@
     
 -   👨‍💻  All of my projects are available at  [https://github.com/AtulKrSharma](https://github.com/AtulKrSharma)
     
--   💬  Ask me about  **Selenium, Rest-assured, Cypress(GUI & API), Cucumber, DevOps (Jenkins etc.)**
+-   💬  Ask me about  **Selenium, Rest-assured, Cypress(GUI & API), Playwright(GUI & API), Cucumber-BDD, DevOps (Jenkins etc.)**
     
 -   📫  How to reach me  **[https://www.linkedin.com/in/atulkmrsharma](https://www.linkedin.com/in/atulkmrsharma/)**
 
