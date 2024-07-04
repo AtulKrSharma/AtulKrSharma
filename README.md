@@ -15,8 +15,6 @@
 -   👨‍💻  All of my projects are available at  [https://github.com/AtulKrSharma](https://github.com/AtulKrSharma)
     
 -   💬  Ask me about  **Selenium, Rest-assured, Cypress(GUI & API), Playwright(GUI & API), Cucumber-BDD, DevOps (Jenkins etc.)**
-    
--   📫  How to reach me  **[https://www.linkedin.com/in/atulkmrsharma](https://www.linkedin.com/in/atulkmrsharma/)**
 
 
 <h3 align="left">Languages and Tools:</h3>
